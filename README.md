@@ -1,9 +1,6 @@
-- 👋 Hi, I’m Shanaka Senavirathne
-- 👀 I’m interested in doing Software projects ...
-- 🌱 I’m currently learning MERN & pytorch ...
+👋 Hi, I’m Shanaka Senavirathne
+🚀 I’m a passionate Full-Stack Software Engineer
+💻 I love building software projects and exploring new technologies
+🌱 Currently diving deep into MERN Stack & PyTorch
 
-
-<!---
-shanaka20008/shanaka20008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Let's connect and build something amazing! 🚀
