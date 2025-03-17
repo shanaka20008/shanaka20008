@@ -4,7 +4,7 @@
 
 🎨 Front-End Enthusiast—I love bringing designs to life with clean, interactive, and user-friendly interfaces.
 
-🌱 Currently exploring MERN Stack & PyTorch to expand my development toolkit.
+🌱 Currently exploring MERN Stack, Next.Js & PyTorch to expand my development toolkit.
 
 🚀 Always eager to learn, experiment, and build awesome projects!
 
